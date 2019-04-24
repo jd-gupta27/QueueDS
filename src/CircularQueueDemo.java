@@ -11,7 +11,9 @@ public class CircularQueueDemo {
 		// TODO Auto-generated method stub
 		System.out.println("Hello");
 		System.out.println("git");
+
 		System.out.println("today");
+
 		CircularQueueDemo circularQueueDemo = new CircularQueueDemo();
 		circularQueueDemo.scan = new Scanner(System.in);
 		circularQueueDemo.operation();
